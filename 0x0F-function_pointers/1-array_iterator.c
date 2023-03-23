@@ -1,4 +1,4 @@
-#include "function__pointers.h"
+#include "function_pointers.h"
 #include <stdio.h>
 /**
  * array_iterator - prints each array element on a newl
